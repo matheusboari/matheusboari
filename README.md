@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 
 <!-- links -->
 
-[Rankmyapp]: https://github.com/8451 "RankMyApp Home"
+[Rankmyapp]: https://www.rankmyapp.com/ "RankMyApp Home"
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
 [linkedin]: https://www.linkedin.com/in/matheusboari "Matheus Boari LinkedIn"
