@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**matheusboari/matheusboari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Matheus Boari</h1>
+<h3 align="left">I am Developer, doing somethings with JS</h3>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#macropower-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusboari&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
+</a>
+
+- :office: &nbsp;I'm currently working at **[Rankmyapp]**
+- :seedling: &nbsp;I’m currently learning **Typescript**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+<!-- links -->
+
+[Rankmyapp]: https://github.com/8451 "RankMyApp Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/matheusboari "Matheus Boari LinkedIn"
