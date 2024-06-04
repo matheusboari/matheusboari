@@ -7,12 +7,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=matheusboari&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[Framework]**
-- :seedling: &nbsp;I’m currently learning **NestJS/NextJS**
+- :office: &nbsp;I'm currently working at **[UpKeep]**
+- :seedling: &nbsp;I’m currently learning **Python**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <!-- links -->
 
-[Framework]: https://www.frameworkdigital.com.br/ "Framework Home"
+[Framework]: https://app.onupkeep.com/ "UpKeep Home"
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
 [linkedin]: https://www.linkedin.com/in/matheusboari "Matheus Boari LinkedIn"
