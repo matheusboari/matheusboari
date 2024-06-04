@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 
 <!-- links -->
 
-[Framework]: https://app.onupkeep.com/ "UpKeep Home"
+[UpKeep]: https://app.onupkeep.com/ "UpKeep Home"
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
 [linkedin]: https://www.linkedin.com/in/matheusboari "Matheus Boari LinkedIn"
